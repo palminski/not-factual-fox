@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WillsGame",
+			"Path": "C:\\Users\\Will\\Desktop\\projects\\unreal-games\\WillsGame\\WillsGame\\Source\\WillsGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WillsGameEditor",
+			"Path": "C:\\Users\\Will\\Desktop\\projects\\unreal-games\\WillsGame\\WillsGame\\Source\\WillsGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

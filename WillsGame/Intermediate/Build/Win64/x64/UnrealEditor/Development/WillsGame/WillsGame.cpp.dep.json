@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\will\\desktop\\projects\\unreal-games\\willsgame\\willsgame\\source\\willsgame\\willsgame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\will\\desktop\\projects\\unreal-games\\willsgame\\willsgame\\intermediate\\build\\win64\\x64\\willsgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\will\\desktop\\projects\\unreal-games\\willsgame\\willsgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\willsgame\\definitions.willsgame.h",
+            "c:\\users\\will\\desktop\\projects\\unreal-games\\willsgame\\willsgame\\source\\willsgame\\willsgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

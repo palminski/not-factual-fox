@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\Will\\Desktop\\projects\\unreal-games\\WillsGame\\WillsGame\\Source\\WillsGame\\WillsGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Will\\Desktop\\projects\\unreal-games\\WillsGame\\WillsGame\\.vscode\\compileCommands_WillsGame\\WillsGame.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Will\\Desktop\\projects\\unreal-games\\WillsGame\\WillsGame\\Source\\WillsGame\\WillsGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Will\\Desktop\\projects\\unreal-games\\WillsGame\\WillsGame\\.vscode\\compileCommands_WillsGame\\WillsGame.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Will\\Desktop\\projects\\unreal-games\\WillsGame\\WillsGame\\Source\\WillsGame\\WillsGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Will\\Desktop\\projects\\unreal-games\\WillsGame\\WillsGame\\.vscode\\compileCommands_WillsGame\\WillsGame.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Will\\Desktop\\projects\\unreal-games\\WillsGame\\WillsGame\\Source\\WillsGame\\WillsGameGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Will\\Desktop\\projects\\unreal-games\\WillsGame\\WillsGame\\.vscode\\compileCommands_WillsGame\\WillsGame.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Will\\Desktop\\projects\\unreal-games\\WillsGame\\WillsGame\\Source\\WillsGame\\WillsGameGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Will\\Desktop\\projects\\unreal-games\\WillsGame\\WillsGame\\.vscode\\compileCommands_WillsGame\\WillsGame.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]
